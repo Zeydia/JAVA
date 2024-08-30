@@ -1,6 +1,6 @@
-#Apprentissage de JAVA et Git
+# Apprentissage de JAVA et Git
 
-##Git
+## Git
 #### Les commandes a retenir
 - git init
 - git add .
@@ -10,4 +10,6 @@
 - git push -u origin main
 - git branch -a
 - git checkout -b newBranch
-- git clone https://www.github.com/repo-link 
+- git clone https://www.github.com/repo-link
+- git checkout -b main 
+- git merge --no-ff newBranch
